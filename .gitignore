@@ -11,6 +11,7 @@
 *.jpg
 *.png
 *.pdf
+*.out
 *.cwnd
 *.dat
 *.log
